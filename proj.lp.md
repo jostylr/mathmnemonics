@@ -30,11 +30,21 @@ This is the main welcome page for math pebbles
 
 [body]()
 
-  This ain't your Dear Aunt Sally's mnemonics...
+    This ain't your Dear Aunt Sally's mnemonics...
 
-  Coming soon:  A book that tells the math stories you need to remember formulas. This is the stuff to hang your hat on, so to speak. 
+    Coming soon:  A book that tells the math stories you need to remember formulas. This is the stuff to hang your hat on, so to speak. 
 
-  Summer 2014. 
+    Summer 2014?
+
+    ## Introduction
+
+    The idea of this book is that math has a story to its facts. If you know the story, then you can use and remember the mathematics. The math stories in this book will help you remember the math. It may often help you understand the math. 
+
+    But this book is not written to teach you math. You may learn math from it, but that is not the intent. The intent is to help those who are learning the material, to remember it. 
+
+    
+
+
 
 ## README
 
